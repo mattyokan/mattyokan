@@ -7,3 +7,5 @@ I'm a computer science student and software developer.
 Currently working on interesting multiplayer scalability solutions with [Rain Framework](https://github.com/RainFramework).
 
 I also own and operate [Strive Services LLC](https://github.com/StriveServicesLLC), which has provided fun multiplayer experiences to over **100,000** unique users since April 2020.
+
+![Bentley](https://bentley.tadhg.sh/420)
